@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cidr.txt</file>
+        <file>phones.txt</file>
+        <file>mac.txt</file>
+        <file>rukus.txt</file>
+        <file>hpe.txt</file>
+        <file>Cisco.txt</file>
+        <file>cli.txt</file>
+        <file>egs.txt</file>
+        <file>egspms.txt</file>
+        <file>Ciscocli.txt</file>
+        <file>raven-icon.png</file>
+        <file>linuxgen.txt</file>
+        <file>allbridgeEmails.txt</file>
+        <file>brocade.txt</file>
+        <file>ext.txt</file>
+        <file>nomadix.txt</file>
+    </qresource>
+</RCC>
